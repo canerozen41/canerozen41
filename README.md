@@ -4,8 +4,6 @@ Strengths: I excel in communication, problem-solving, teamwork, and quickly adap
 
 Goals: My aim is to contribute to more complex projects, expand my experience, and build a successful career in front-end development.
 
-🌐 Socials:
-Instagram LinkedIn
 
 💻 Tech Stack:
 CSS3 JavaScript HTML5 Bootstrap React
